@@ -38,5 +38,5 @@ secrets.txt
 
 .env
 
-./audios
-./transcripts
+audios/
+transcripts/
